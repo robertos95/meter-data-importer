@@ -70,7 +70,7 @@
 2. Run migration `npm run migration:run`
 3. Run the app `npm run start` and it will consume the `sample_file.csv` that is part of this repo and process it to the DB. (DB result screenshot attached below)
 
-![Screenshot 2024-03-06 at 21 50 32](https://github.com/robertos95/meter-data-importer/assets/35228010/9518cd33-7f99-420e-b71a-443b2db528e9)
+![Screenshot 2024-03-06 at 21 53 22](https://github.com/robertos95/meter-data-importer/assets/35228010/763d5ee7-006e-4213-9f1b-7be40784422c)
 
 ## Running the test
 Unit tests are also included via `npm run test`
